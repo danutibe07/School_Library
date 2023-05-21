@@ -32,7 +32,6 @@
 The school library, managed by a Ruby-powered program, efficiently organizes and automates book lending, tracking, and online reservations, streamlining the entire library experience for students.
 
 ## 🛠 Built With <a name="built-with"></a>
--  RUBY
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -44,12 +43,6 @@ The school library, managed by a Ruby-powered program, efficiently organizes and
 
 - Decrypts morse messages
 - Utilizes reusable methods
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
-
-- Not available -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
