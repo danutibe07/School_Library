@@ -4,7 +4,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>School Library</b></h3>
+  <h3><b>OOP School Library</b></h3>
 
 </div>
 
