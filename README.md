@@ -104,7 +104,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/danutibe07/morse-code/issues).
+Feel free to check the [issues page](https://github.com/danutibe07/School_Library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
