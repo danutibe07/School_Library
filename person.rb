@@ -3,7 +3,6 @@ require_relative 'capitalize_decorator'
 require_relative 'trimmer_decorator'
 require_relative 'rental'
 
-
 class Person < Nameable
   attr_accessor :name, :age, :rentals
   attr_reader :id
