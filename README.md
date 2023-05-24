@@ -4,7 +4,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>School Library</b></h3>
+  <h3><b>OOP School Library</b></h3>
 
 </div>
 
@@ -104,7 +104,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/danutibe07/morse-code/issues).
+Feel free to check the [issues page](https://github.com/danutibe07/School_Library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
