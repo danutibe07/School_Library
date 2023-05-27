@@ -69,6 +69,4 @@ def quit(_app)
   puts 'Thank you for using the School Library App. Goodbye!'
 end
 
-
-
 main
